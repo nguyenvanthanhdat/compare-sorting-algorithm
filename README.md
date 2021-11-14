@@ -23,7 +23,7 @@ Thời gian thực hiện: 17/04 – 24/04/2021
 
 \+ 1 2 3
 
-- Thay vì ta làm như trên thì ta có thể đỗ chõ vị trí 2 số 1 và 3
+- Thay vì ta làm như trên thì ta có thể đỗ chỗ vị trí 2 số 1 và 3
 
 **Ví dụ:**
 
